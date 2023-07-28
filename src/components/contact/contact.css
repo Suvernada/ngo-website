@@ -1,0 +1,33 @@
+#contact-section{
+    background-color: #f2f2f2;
+    padding: 80px 50px;
+    box-shadow: 0px 16px 28px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+}
+#contact-section h3 {
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.contact-info ul li {
+    font-weight: 500;
+    font-size: 17px;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+.contact-form .form-control {
+    border: 1px solid #ddd;
+    border-radius: 0;
+    height: 45px;
+    background-color: #fff;
+}
+.contact-form .form-control.message {
+    height: 150px;
+}
+
+@media (max-width: 750px){
+    #contact-section{
+        padding: 50px 0!important;
+    }
+}

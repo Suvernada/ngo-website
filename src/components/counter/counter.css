@@ -1,0 +1,27 @@
+.counter-section {
+    background-image: url("https://html.dynamiclayers.net/dl/charitify/img/counters-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: 150px 0;
+}
+.counters .counter-content {
+    display: block;
+    text-align: center;
+    color: #fff;
+}
+.counters .counter-content i {
+    font-size: 36px;
+}
+.counters .counter-content h3 {
+    font-size: 48px;
+    margin: 10px 0;
+    color: #009ba5;
+    font-weight: 600;
+}
+.counters .counter-content h4 {
+    font-size: 18px;
+    margin: 0;
+}

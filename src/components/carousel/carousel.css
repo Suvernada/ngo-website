@@ -1,0 +1,38 @@
+#topHomepageCarousel .carousel-heading{
+    font-size:52px!important;
+}
+#topHomepageCarousel .carousel-caption{
+    position: absolute;
+    right: 40%;
+    top: 20%;
+    left: 9%;
+}
+#topHomepageCarousel .carousel-item{
+    height:calc(100vh - 85px);
+    /* background: linear-gradient(transparent 60%, rgba(0, 0, 0, 0.75)); */
+    background:linear-gradient(to right, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0))
+}
+#topHomepageCarousel .carousel-item img{
+        mix-blend-mode: overlay;
+}
+#topHomepageCarousel .overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+#topHomepageCarousel .carousel-item button{
+    background:#009ba5!important;
+    border:none;
+}
+
+
+@media (max-width: 750px){
+    #topHomepageCarousel .carousel-item{
+        height:100%;
+    } 
+    #topHomepageCarousel .carousel-item img{
+        width:100%;
+        object-fir:cover;
+        height:100%;
+    }
+}
