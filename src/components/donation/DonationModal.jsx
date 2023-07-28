@@ -85,7 +85,7 @@ setUserData({...userData,[name]:value});
                     <div className="form-group">
                     <label><strong>Bank Details.</strong></label> <br/>
                     <label><strong>Account number: 1178002100004617</strong></label>
-                    <label><strong>IFC CODE: PUNB0117800 </strong></label>
+                    <label><strong>IFSC CODE: PUNB0117800 </strong></label>
                     
                     </div>
                 </div>
