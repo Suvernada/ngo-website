@@ -15,7 +15,7 @@ const Header = () => {
       <ul className="navbar-nav">
         <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/")}}>Home</a></li>
         <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/about")}}>About us</a></li>
-        <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/causes")}}>Platform</a></li>
+        <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/causes")}}>Platforms</a></li>
         <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/events")}}>Our Work</a></li>
         <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/notice")}}>Notice</a></li>
         <li className='nav-item'><a className="nav-link" onClick={()=>{navigate("/contactus")}}>Contact us</a></li>
