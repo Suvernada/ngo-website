@@ -119,7 +119,7 @@ around fostering a relationship with nourishment
               <button className="cause-type btn">Empowerment</button>
               </div>
               <div className="card-content">
-                <h3>The Empowered minds studio</h3>
+                <h3>The Empowered Minds Studio</h3>
                 <p> we specialize in various activities aimed at personal growth and creativity,including crafting insightful self-help blogs and providing mentorship to children and young adults, nurturing their 
 potential as budding authors
                 </p>
