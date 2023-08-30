@@ -2,6 +2,12 @@ import React from "react";
 import img from "../images/milletPoster.png";
 import pa1 from "../images/publicAwareness1.jpeg";
 import pa2 from "../images/publicAwareness2.jpeg";
+import pa3 from "../images/m1.jpg";
+import pa4 from "../images/m2.jpg";
+import pa5 from "../images/m3.jpg";
+import pa6 from "../images/m4.jpg";
+import pa7 from "../images/m5.jpg";
+import pa8 from "../images/m6.png";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 
@@ -153,6 +159,45 @@ To learn more about Marketmirchi.com, interested parties can contact Pragati Gok
         </section>
         <section id="knowledge-section" class="tab-pane fade" role="tabpanel">
           <div className="container">
+              <div className="event-details">
+                <div className="event-title">
+                  <h4>
+                 Millet Recipe Competition 
+                  </h4>
+                  <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 19 August, 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Team
+                          Harmonious Nourishment Initiative{" "}
+                        </p>
+                      </div>
+                  <div className="text">
+                  <div className="d-flex justify-content-center"><img src={pa8} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    <p>
+                    On August 19, 2023, the "Millet Recipe Competition" was jointly organized by the Suvernada Foundation, Rudrapur and the Department of Food Science & Nutrition at the College of Home Science, GBPUA&T, Pantnagar, Uttarakhand. The event aimed to promote millets in people's diets and was driven by the efforts of Dr. Sarita Srivastava, Director of Suvernada Foundation, and Dr. Archana Kushwaha, Head of the Department of Food Science & Nutrition. 
+                    </p>
+                    <div className="d-flex justify-content-center"><img src={pa3} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    <p>
+                    Participation extended to students from France undergoing training at Pantvarsity, along with enthusiastic Pantvarsity students. The competition witnessed the creation of a variety of millet-based food products and beverages. The judging panel included Dr. Sarita Srivastava, Dr. Archana Kushwaha, and Dr. Sabbu Sangita. The event showcased an impressive array of millet-based culinary creations.
+                    </p>
+                    <div className="d-flex justify-content-center"><img src={pa4} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    <p>
+                    The results of the competition were as follows: Mrs. Sadhana Sharma secured the first place, while Charu Bisht and Diksha Semwal secured the second place. Ayushi Joshi and Nicolas Flottes secured the third place, and a consolation prize was awarded to Mrs. Usha Joshi and Clementine Basquin. Participants were honored with trophies and prizes for their exceptional efforts.
+                    </p>
+                    <div className="d-flex justify-content-center"><img src={pa5} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                   
+                    <p>
+                    Dr. Alka Goel, the Dean of Home Science, extended encouragement and full support for the successful organization of the event. The event's coordination and participant encouragement were spearheaded by Mr. Rohit Goswami, Director of Suvernada Foundation, and Ms. Shefali Srivastava, a consultant with Suvernada Foundation. The organizing team received assistance from students of the Department of Food Science and Nutrition. The faculty members from the College of Home Science also graced the occasion with their presence.
+                    </p>
+                    <div className="d-flex justify-content-center"><img src={pa6} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                  
+                    <div className="d-flex justify-content-center"><img src={pa7} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                  
+                  </div>
+              </div>
+              </div>
               <div className="event-details">
                 <div className="event-title">
                   <h4>
