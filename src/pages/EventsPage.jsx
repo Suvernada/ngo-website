@@ -8,6 +8,18 @@ import pa5 from "../images/m3.jpg";
 import pa6 from "../images/m4.jpg";
 import pa7 from "../images/m5.jpg";
 import pa8 from "../images/m6.png";
+import onlineMilletCompetition from "../images/online millet competition.png";
+import utu1 from "../images/utu1.png";
+import utu2 from "../images/utu2.png";
+import g201 from "../images/g201.jpg";
+import g202 from "../images/g202.jpg";
+import gbpuat1 from "../images/gbpuat1.jpg";
+import gbpuat2 from "../images/gbpuat2.jpg";
+import gbpuat3 from "../images/gbpuat3.jpg";
+import rural1 from "../images/rural1.jpg";
+import rural2 from "../images/rural2.jpg";
+import rural3 from "../images/rural3.jpg";
+import rural4 from "../images/rural4.jpg";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 
@@ -301,7 +313,140 @@ To learn more about Marketmirchi.com, interested parties can contact Pragati Gok
                       <p>The audience was captivated as Dr. Srivastava provided detailed insights into the economic opportunities associated with small millet value addition. She explained that by diversifying their crop portfolio to include small millets and adding value to these crops, farmers can not only enhance their income but also contribute to food security and sustainability. The increased demand for healthy and natural food products further bolsters the economic viability of small millet value addition. </p>
                       <p>During the interactive session that followed the presentation, attendees had the opportunity to engage in a lively discussion with Dr. Srivastava. They posed questions, seeking guidance on processing methods, and marketing strategies for small millet value-added products. Dr. Srivastava, with her vast knowledge and practical experience, patiently addressed each query, providing valuable insights and recommendations. </p>
                     </div>
-                  </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Suvernada Foundation Motivated School Children and Parents to Consume Healthy Diet
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 2 November, 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Team, Suvernada Foundation
+                        </p>
+                      </div>
+                      <p className="text">
+                      Dr. Sarita Srivastava, Director Suvarnada Foundation through online interactive session explained importance of healthy diet and substitutes of junk foods in daily diet to children of the Oak Buds School at Ramnagar Uttarakhand. Parents of children of the school also attended session and were benefitted. Dr Alpana Joshi from Suvernada Foundation coordinated with Principal of the school Mrs Sukhda Mishra. The leadership role of Principal in this regard is appreciable.
+                      </p>
+                      
+                    </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Suvernada Foundation Declares Results of Online Small Millet Recipe Competition
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 18 October, 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Team, Suvernada Foundation
+                        </p>
+                      </div>
+                      <p className="text">
+                      Dr. Sarita Srivastava, Director Suvarnada Foundation told that children from schools of Uttarakhand, Rajasthan and Delhi participated in the online competition of coarse grains. Among the children of class 6 to 8, Anushka Tiwari of Beershiba School, Almora got the first position for making smoothie from foxtail millet. Naman Sati of Stepping Stones, Ramnagar got second position by making Mandua Idli while Divyanshi Joshi, DAV Public School Delhi got third position by making Mandua Muffin. Ayushman Bisht of Little Scholar, Ramnagar stood first among the children of class 9 to 12 by making Mandua Dhokla. Vartika Dangwal of St. Joseph's Convent School, Ramnagar prepared Mandua Dosa and got second position. Manaswani Manral of Little Scholar School, Ramnagar got third position by making Jhangora Kheer. Apart from this, the efforts of Pradarsh Pandey, Divansh Aggarwal and Mishika Pathak were also commendable. Dr. Alpana Joshi, Public Health Nutritionist and Shefali Srivastava Consultant of Suvarnada Foundation made special contribution in organizing this competition.
+                      </p>
+                      <div className="d-flex justify-content-center"><img src={onlineMilletCompetition} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Recent Advances and Innovations in Small Millets Discussed on World Food Day
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 18 October, 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Suvernada Foundation
+                        </p>
+                      </div>
+                      <p className="text">
+                      An international conference was organized in Uttaranchal University, Dehradun on the occasion of 'World Food Day' from 16-17 October. On this occasion, Dr. Sarita Srivastava, Director, Suvernada Foundation, was invited as Keynote Speaker. She discussed recent advances and innovations in small millets.
+                      </p>
+                      <div className="d-flex justify-content-center"><img src={utu1} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={utu2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Suvernada Foundation Continues To Raise Awareness about Millets
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 7th October, 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Team, Harmonious Nourishment Initiative
+                        </p>
+                      </div>
+                      <p className="text">
+                      Suvernada Foundation is actively engaged in raising awareness among the public regarding millets. Over the past month, Dr. Sarita Srivastava, the Director of Suvernada Foundation, has conducted four informative lectures focusing on various facets of small millets. These lectures covered topics such as value addition, processing and development of health foods and healthy diets. These lectures were hosted by Uttarakhand Open University, General Bipin Rawat Parvatiya Shodh Shikshanalay in Pantnagar, Institute of Social Development in Kichha and College of Technology, G. B. Pant University of Agriculture and Technology, Pantnagar.
+                      </p>
+                      <div className="d-flex justify-content-center"><img src={g201} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={g202} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Suvernada Foundation Participated in National Workshop at GBPUA&T, Pantnagar
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 13 September 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Team, Harmonious Nourishment Initiative
+                        </p>
+                      </div>
+                      <p className="text">
+                      The Department of Food Science and Nutrition at G. B. Pant University of Agriculture and Technology, Pantnagar, organized a National workshop on "Nutrition and Health Potential, Diversity, Processing and Value Addition of Millets" on September 11-12, 2023. During the workshop, Dr. Sarita Srivastava, Director of Suvernada Foundation, delivered a keynote lecture on the topic, "Processing and value addition of small millets for development of health foods" to an audience that included KVK scientists, NGOs, progressive farmers, and students and faculty of community science.
+                      </p>
+                      <p className="text">
+                      Suvernada Foundation actively participated in the exhibition held during the workshop, showcasing small millet products such as donuts, halwa, pahari roti, and choco drops. The success of this exhibition stall can be attributed to the efforts of Rohit Goswami, Dr. Alpana Joshi and Shefali Srivastava.
+                      </p>
+                      <p className="text">
+                      We extend our gratitude to the Vice Chancellor of GBPUA&T for taking the initiative to organize this insightful workshop. Special thanks also go to Dr. Alka Goel, Dean, College of Home Science, and Dr. Archana Kushwaha, Head, Department of Food Science and Nutrition, for their invaluable contributions to this event.
+                      </p>
+                      <div className="d-flex justify-content-center"><img src={gbpuat1} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={gbpuat2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={gbpuat2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Rural Trainees Recognize the Importance of Adding Small Millets in Their Diets
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 8th September 2023{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>Authored by: Team, Harmonious Nourishment Initiative
+                        </p>
+                      </div>
+                      <p className="text">
+                      In commemoration of the International Year of Millets, a training entitled 'Importance of Small Millets and Value Addition' was organized on 5th September 2023. Dr. Sarita Srivastava, a millet research veteran with 40 years of expertise, led the training.
+                      </p>
+                      <p className="text">
+                      During this session, the majority of participants, hailing from rural backgrounds, were educated on the nutritional value of small millets, their processing methods, and strategies for incorporating them into their diets. The session was highly interactive, with participants reminiscing about their childhoods when they consumed pearl millet and corn alongside wheat in the form of chapati. Some even used to enjoy finger millet chapati and foxtail millet as a rice substitute. Nowadays, some of them opt for mixed grain flour for making chapatis. However, they recognized the necessity of reintroducing finger millet and other available millets into their diets after learning about their health benefits. Notably, finger millet was revealed to contain the highest amount of calcium (344 mg/100 g), crucial for strong bones and preventing osteoporosis and joint pains, which is nearly ten times more than wheat (Triticum aestivum) (41 mg/100 g), maize (Zea mays) (26 mg/100 g), and rice (Oryza sativa) (33 mg/100 g).
+                      </p>
+                      <p className="text">
+                      Various techniques for preparing millets, such as malting, popping, and boiling, were shared with the trainees. Finger millet was suggested as an option for making chapatis. To enhance the taste and appeal, especially for children, the trainees were instructed in two finger millet recipes: finger millet donuts and finger millet choco drops. The training session witnessed enthusiastic participation from the trainees.
+                      </p>
+                      <div className="d-flex justify-content-center"><img src={rural1} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={rural2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={rural2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                      <div className="d-flex justify-content-center"><img src={rural4} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    </div>
+              </div>
           </div>
         </section>
       </div>
