@@ -20,6 +20,7 @@ import rural1 from "../images/rural1.jpg";
 import rural2 from "../images/rural2.jpg";
 import rural3 from "../images/rural3.jpg";
 import rural4 from "../images/rural4.jpg";
+import rural5 from "../images/new img.jpg";
 import Header from "../components/header/Header";
 import Footer from "../components/footer/Footer";
 
@@ -445,6 +446,27 @@ To learn more about Marketmirchi.com, interested parties can contact Pragati Gok
                       <div className="d-flex justify-content-center"><img src={rural2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
                       <div className="d-flex justify-content-center"><img src={rural2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
                       <div className="d-flex justify-content-center"><img src={rural4} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
+                    </div>
+              </div>
+              <div className="event-details" style={{paddingTop:"50px"}}>
+                    <div className="event-title">
+                      <h4>
+                      Suvernada Foundation Raises awareness on the Role of Women in Biodiversity Conservation.
+                      </h4>
+                      <div className="event-info">
+                        <p>
+                          <i class="bi bi-calendar-check"></i>Date: 9 January,2024{" "}
+                        </p>
+                        <p>
+                          <i class="bi bi-person"></i>AUTHORED BY :SUVERNADA FOUNDATION
+                        </p>
+                      </div>
+                      <p className="text">
+                      Dr.Sarita Srivastava, Director,Suvernada Foundation discussed the role of women in biodiversity conservation in an International Conference on Gender Roles and Green Concepts organized by MBPG College,Haldwani, Uttarakhand.</p>
+                      <p className="text">
+                      She chaired the Valedictory Function of the conference and emphasized that women well versed with diverse nature of plants/field conditions be invited for making policy decisions.</p>
+                      
+                      <div className="d-flex justify-content-center"><img src={rural5} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/></div>
                     </div>
               </div>
           </div>
