@@ -2,9 +2,12 @@ import React from 'react'
 import banner1 from "../../images/children.jpeg"
 import banner2 from "../../images/education.jpg"
 import "./carousel.css";
+import formpic1 from '../../images/formpic1.jpg'
+import formpic2 from '../../images/formpic2.jpg'
 
 const Carousel = () => {
   return (
+    <>
     <div id="topHomepageCarousel" className="carousel slide carousel-fade" data-bs-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item active">
@@ -35,6 +38,13 @@ const Carousel = () => {
     <span className="visually-hidden">Next</span>
   </button>
 </div>
+    <div className="d-flex justify-content-center mt-3"><a href='https://forms.gle/64hCsJxDod86RPAC9'>
+    <img src={formpic2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/>
+    <img src={formpic1} alt="poster"  style={{maxHeight:"540px",margin:"0 auto 15px"}}/>
+    
+    </a>
+    </div>
+</>
   )
 }
 
