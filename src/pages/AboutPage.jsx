@@ -220,7 +220,7 @@ const AboutPage = () => {
             <div className="col-lg-6 col-md-12 text-center">
               <img src={teamMember1} className="img-fluid" alt="director-2" />
               <h6>
-              Ms. Shefali Srivastava,
+              Dr. Shefali Srivastava,
                 <br />
                 Consultant - Research Author and Mentor
                 <br />
@@ -229,31 +229,7 @@ const AboutPage = () => {
             </div>
             <div className="col-lg-6 col-md-12">
               <p>
-                Ms. Shefali Srivastava is an accomplished Ph.D. scholar at
-                Department of Agricultural Economics, College of Agriculture,
-                G.B. Pant University of Agriculture & Technology (GBPUA&T),
-                Pantnagar. Her educational background includes a Master's degree
-                in Agribusiness Economics from Gokhale Institute of Politics and
-                Economics, Pune and a Bachelor’s degree in Agriculture from
-                GBPUA&T, Pantnagar. Ms. Shefali has gained valuable experience
-                by working with International Food Policy Research Institute
-                (IFPRI), New Delhi and the International Crops Research
-                Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad in the
-                field of agriculture and food policy research.
-              </p>
-              <p>
-                Ms. Shefali has 10 publications to her credit. She has actively
-                participated in various academic events, presenting her work at
-                both national and international conferences and doctoral
-                colloquiums at reputed institutions like Indira Gandhi Institute
-                of Development Research (IGIDR) in Mumbai and the Institute of
-                Rural Management Anand (IRMA). Her expertise and reputation have
-                led to her being invited to share her knowledge and insights as
-                a guest lecturer at O.P. Jindal Global University. Her
-                achievements and experiences indicate a strong passion for
-                agricultural economics and a significant impact on the academic
-                community, making her a promising researcher and scholar in the
-                field
+              Dr. Shefali Srivastava has done her PhD from G. B. Pant University of Agriculture & Technology (GBPUA&T), Pantnagar. Her educational background includes a Master's degree in Agribusiness Economics from Gokhale Institute of Politics and Economics, Pune and a Bachelor’s degree in Agriculture from GBPUA&T, Pantnagar. Dr. Shefali has the experience of working with various national and international organizations. She is an education enthusiast and holds a teaching certificate in 'Education for Life'. She is actively engaged in creative writing pursuits and manages Dawn Blossom Club (www.dawnblossomclub.com), an online club by The Empowered Minds Studio, Suvernada Foundation. She is also the Editor of Dawn Blossom Blog where she invites entries for short story/poems/articles conveying optimism and hope. She can be contacted at shefali.suvernada.foundation@gmail.com
               </p>
             </div>
           </div>
