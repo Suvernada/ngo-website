@@ -2,8 +2,10 @@ import React from 'react'
 import banner1 from "../../images/children.jpeg"
 import banner2 from "../../images/education.jpg"
 import "./carousel.css";
-import formpic1 from '../../images/suvernada new image1.jpg'
-import formpic2 from '../../images/suvernada new image2.jpg'
+import formpic1 from '../../images/1Aug1.jpg'
+import formpic2 from '../../images/1Aug2.jpg'
+import formpic3 from '../../images/1Aug3.jpg'
+import formpic4 from '../../images/1Aug4.jpg'
 
 const Carousel = () => {
   return (
@@ -38,11 +40,15 @@ const Carousel = () => {
     <span className="visually-hidden">Next</span>
   </button>
 </div>
-<p style={{width:'80vw', margin: '5% auto'}} >After successful  completion  of first round of Health  and Fitness  Counseling  Course, Suvernada Foundation  launches  course  in June,2024. Those who have missed it can join.</p>
-    <div className="d-flex justify-content-center mt-3"><a href='https://forms.gle/VctW94HRcTJ7ghaA6'>
+<p style={{width:'80vw', margin: '5% auto'}} >We are delighted to introduce a new online certification program 'Crafting Healthy Diets: Science and Art of Millet Utilization' offered by Suvernada  Foundation. This one month course commences from August 1,2024. Program details are attached.</p>
+    <div className="d-flex justify-content-center mt-3"><a href='https://forms.gle/bjRWWEM4sTBnDdE26'>
     <img src={formpic2} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/>
     <img src={formpic1} alt="poster"  style={{maxHeight:"540px",margin:"0 auto 15px"}}/>
-    
+    </a>
+    </div>
+    <div className="d-flex justify-content-center mt-3"><a href='https://forms.gle/bjRWWEM4sTBnDdE26' style={{display: 'flex', flexDirection: 'column'}}>
+    <img src={formpic3} alt="poster" style={{maxHeight:"540px",margin:"0 auto 15px"}}/>
+    <img src={formpic4} alt="poster"  style={{maxHeight:"540px",margin:"0 auto 15px"}}/>
     </a>
     </div>
 </>
