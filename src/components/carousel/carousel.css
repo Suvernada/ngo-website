@@ -58,3 +58,8 @@
 .notice {
     padding: 1rem;
 }
+.pdfwidth {
+    margin: auto;
+    min-height: 1200px;
+
+}

@@ -61,13 +61,11 @@ const Carousel = () => {
             <div className="d-flex justify-content-center mt-3">
                 <a href="https://forms.gle/kRZq13RGvZthwFfK8" style={{ display: "flex", flexDirection: "column" }}>
                     <iframe
-                        src={pdf1 + "#toolbar=0&navpanes=0&scrollbar=0"}
+                        className="pdfwidth"
+                        src={pdf1 + "#toolbar=0&navpanes=0&scrollbar=0"} // Use parameters to hide sidebar and toolbar
                         width="800px"
-                        style={{ border: "none", height: "auto" }}
-                        onLoad={(e) => {
-                            const iframe = e.target;
-                            iframe.style.height = `${iframe.contentWindow.document.body.scrollHeight}px`;
-                        }}
+                        height="1200px"
+                        style={{ border: "none" }}
                     />
                 </a>
             </div>
