@@ -10,6 +10,8 @@ import formpic5 from "../../images/1Aug5.jpg";
 import formpic6 from "../../images/1Aug6.jpg";
 import formpic7 from "../../images/1Aug7.jpg";
 import formpic8 from "../../images/1Aug8.jpg";
+import timetable1 from "../../images/nov1.jpg";
+import timetable2 from "../../images/nov2.jpg";
 import pdf1 from "../../images/pdf1.pdf";
 
 const Carousel = () => {
@@ -50,7 +52,7 @@ const Carousel = () => {
                 </button>
             </div>
             <p style={{ width: "80vw", margin: "5% auto" }}>With one successful round of our online course on Crafting Healthy Diets: The Science and Art of Millet Utilization we're now launching it again. This offers the most up-to-date insights and strategies for utilizing millets in daily diet for achieving optimal health and wellness.</p>
-            <div className="d-flex justify-content-evenly mt-3 notice">
+            <div className="d-flex justify-content-evenly mt-3 flex-wrap notice">
                 <a href="https://forms.gle/kRZq13RGvZthwFfK8" className="feedback1">
                     <img src={formpic2} alt="poster" className="feedbackImage" style={{ padding: "0 !important", margin: "0 auto 15px" }} />
                 </a>
@@ -58,7 +60,15 @@ const Carousel = () => {
                     <img src={formpic1} alt="poster" className="feedbackImage" style={{ margin: "0 auto 15px" }} />
                 </a>
             </div>
-            <div className="d-flex justify-content-center mt-3">
+            <div className="d-flex justify-content-evenly mt-3 flex-wrap notice">
+                <a href="https://forms.gle/kRZq13RGvZthwFfK8" className="feedback1">
+                    <img src={timetable1} alt="poster" className="feedbackImage" style={{ padding: "0 !important", margin: "0 auto 15px",height: "70vh" }} />
+                </a>
+                <a href="https://forms.gle/kRZq13RGvZthwFfK8" className="feedback1">
+                    <img src={timetable2} alt="poster" className="feedbackImage" style={{ margin: "0 auto 15px", height: "70vh" }} />
+                </a>
+            </div>
+            {/* <div className="d-flex justify-content-center mt-3">
                 <a href="https://forms.gle/kRZq13RGvZthwFfK8" style={{ display: "flex", flexDirection: "column" }}>
                     <iframe
                         className="pdfwidth"
@@ -68,7 +78,7 @@ const Carousel = () => {
                         style={{ border: "none" }}
                     />
                 </a>
-            </div>
+            </div> */}
             <div className="d-flex justify-content-evenly flex-wrap mt-3">
                 <a href="https://forms.gle/kRZq13RGvZthwFfK8" className="feedback" style={{ display: "flex" }}>
                     <img src={formpic3} alt="poster" className="feedbackImage" style={{ margin: "0 auto 15px" }} />
