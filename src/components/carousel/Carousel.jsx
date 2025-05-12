@@ -3,7 +3,7 @@ import banner1 from "../../images/children.jpeg";
 import banner2 from "../../images/education.jpg";
 import "./carousel.css";
 import formpic2 from "../../images/may3.jpg";
-import formpic3 from "../../images/1Aug3.jpg";
+import formpic3 from "../../images/may4.jpg";
 import formpic4 from "../../images/1Aug4.jpg";
 import formpic5 from "../../images/1Aug5.jpg";
 import formpic6 from "../../images/1Aug6.jpg";
@@ -84,6 +84,14 @@ const Carousel = () => {
 				<a href="https://forms.gle/gYCdpfoiUJxpWjjB7" className="feedback1">
 					<img
 						src={formpic2}
+						alt="poster"
+						className="feedbackImage"
+						style={{ padding: "0 !important", margin: "0 auto 15px" }}
+					/>
+				</a>
+                <a href="https://forms.gle/gYCdpfoiUJxpWjjB7" className="feedback1">
+					<img
+						src={formpic3}
 						alt="poster"
 						className="feedbackImage"
 						style={{ padding: "0 !important", margin: "0 auto 15px" }}
