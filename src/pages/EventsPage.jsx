@@ -193,7 +193,7 @@ To learn more about Marketmirchi.com, interested parties can contact Pragati Gok
 								<h4>News Update</h4>
 								<div className="event-info">
 									<p>
-										<i class="bi bi-calendar-check"></i>Date: 19 August, 2023{" "}
+										<i class="bi bi-calendar-check"></i>Date: 29 April, 2025{" "}
 									</p>
 									<p>
 										<i class="bi bi-person"></i>Authored by: Team Harmonious

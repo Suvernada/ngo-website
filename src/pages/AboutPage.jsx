@@ -89,10 +89,11 @@ const AboutPage = () => {
 								<br />
 								Director, Suvernada Foundation
 								<br />
-								Prof. and Head (Retd.), Department of Entomology,
+								Prof. and Head (Retd.), Department of Food Science and
+								Nutrition,
 								<br />
-								College of Agriculture, G. B. Pant University of Agriculture &
-								Technology, Pantnagar
+								College of Community Science, G. B. Pant University of
+								Agriculture & Technology, Pantnagar, Uttarakhand
 							</h6>
 						</div>
 					</div>
@@ -107,7 +108,7 @@ const AboutPage = () => {
 								Prof. and Head (Retd.), Department of Entomology,
 								<br />
 								College of Agriculture, G. B. Pant University of Agriculture &
-								Technology, Pantnagar
+								Technology, Pantnagar, Uttarakhand
 							</h6>
 						</div>
 						<div className="col-lg-6 col-md-12">
@@ -220,7 +221,7 @@ const AboutPage = () => {
 								alt="Card 4"
 							/>
 							<div className="card-body">
-								<h5 className="card-title">Dr PritishriParhi</h5>
+								<h5 className="card-title">Dr Pritishri Parhi</h5>
 								<p className="card-text">
 									{" "}
 									Dean, College of Community Science, OUAT, Bhubaneswar,Odisha
@@ -237,7 +238,7 @@ const AboutPage = () => {
 							<div className="card-body">
 								<h5 className="card-title">Dr. Asha Arya</h5>
 								<p className="card-text">
-									Former Professor and Head Dept. of Food Science and Nutrition
+									Former Professor and Head Dept. of Food Science and Nutrition,
 									College of Community Science VNMKV, Parbhani (MS)
 								</p>
 							</div>
@@ -281,9 +282,9 @@ const AboutPage = () => {
 							<div className="card-body">
 								<h5 className="card-title">Dr Sheetal Chhaya</h5>
 								<p className="card-text">
-									Chief Clinical Nutritionist Parul Sevashram Hospital
-									(Professor and Head) Dept. of Nutrition and Dietetics Parul
-									Institute of Applied Sciences Parul University, Vadodara,
+									Chief Clinical Nutritionist, Parul Sevashram Hospital,
+									(Professor and Head) Dept. of Nutrition and Dietetics, Parul
+									Institute of Applied Sciences, Parul University, Vadodara,
 									Gujarat
 								</p>
 							</div>
@@ -299,7 +300,7 @@ const AboutPage = () => {
 								<h5 className="card-title">Ms Shivli Srivastava</h5>
 								<p className="card-text">
 									Food Scientist, M.Sc. Food Technology, CFTRI B.Sc. Food
-									Technology (Gold Medalist), GBPUA&T
+									Technology (Gold Medalist), GBPUA&T, Pantnagar, Uttarakhand
 								</p>
 							</div>
 						</div>
