@@ -64,3 +64,24 @@
     margin: auto;
     min-height: 1200px;
 }
+
+.workshop-brochure-wrap {
+    width: 90vw;
+    max-width: 960px;
+    margin: 0 auto 3rem;
+    padding: 0 1rem;
+}
+
+.workshop-brochure-iframe {
+    display: block;
+    width: 100%;
+    min-height: 85vh;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background: #f8f9fa;
+}
+
+.workshop-brochure-download a {
+    color: #009ba5;
+    font-weight: 500;
+}

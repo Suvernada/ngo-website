@@ -27,6 +27,13 @@ import news1 from "../images/newsupdate1.png";
 import news2 from "../images/newupdate2.png";
 import news3 from "../images/newsupdate3.png";
 import news4 from "../images/newsupdate4.png";
+import swadharm1 from "../images/swadharm1.jpg";
+import swadharm2 from "../images/swadharm2.jpg";
+import anveshan2025Poster1 from "../images/Anveshan,2025.jpg";
+import anveshan2025Poster2 from "../images/ANVESHAN 2025..jpg";
+import sagarConference1 from "../images/Sagar MP (1) March,2026.jpg";
+import sagarConference2 from "../images/Sagar,,MPMarch,2026 (1).jpg";
+import sagarConference3 from "../images/Sagar,,MPMarch,2026 (2).jpg";
 
 const EventsPage = () => {
 	return (
@@ -188,6 +195,191 @@ To learn more about Marketmirchi.com, interested parties can contact Pragati Gok
 				</section>
 				<section id="knowledge-section" class="tab-pane fade" role="tabpanel">
 					<div className="container">
+						<div className="event-details">
+							<div className="event-title">
+								<h4>
+									National Conference: &ldquo;Impact of the Technology Era on
+									Interpersonal Relationships&rdquo; &mdash; Sagar, Madhya
+									Pradesh
+								</h4>
+								<div className="event-info">
+									<p>
+										<i class="bi bi-calendar-check"></i>Date: 13&ndash;14
+										March, 2026{" "}
+									</p>
+									<p>
+										<i class="bi bi-person"></i>Authored by: Dr. Sarita
+										Srivastava{" "}
+									</p>
+								</div>
+								<div className="text">
+									<p>
+										Dr. Sarita Srivastava, Director of Suvernada Foundation,
+										presided over the inaugural session of the National Conference
+										on &ldquo;Impact of the Technology Era on Interpersonal
+										Relationships,&rdquo; held at the College of Home Science,
+										Sagar, Madhya Pradesh, on March 13&ndash;14, 2026. Her poetic
+										style of delivering the inaugural address was highly
+										appreciated by the audience.
+									</p>
+									<div className="d-flex justify-content-center">
+										<img
+											src={sagarConference1}
+											alt="National Conference inaugural session, College of Home Science, Sagar"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+									<div className="d-flex justify-content-center">
+										<img
+											src={sagarConference2}
+											alt="National Conference on interpersonal relationships, Sagar"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+									<div className="d-flex justify-content-center">
+										<img
+											src={sagarConference3}
+											alt="College of Home Science, Sagar, Madhya Pradesh"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div className="event-details">
+							<div className="event-title">
+								<h4>
+									Virtual workshop: &ldquo;Statistics and Data Visualization
+									for Research&rdquo;
+								</h4>
+								<div className="event-info">
+									<p>
+										<i class="bi bi-calendar-check"></i>Date: 24&ndash;25
+										January, 2026{" "}
+									</p>
+									<p>
+										<i class="bi bi-person"></i>Authored by: Suvernada
+										Foundation{" "}
+									</p>
+								</div>
+								<div className="text">
+									<p>
+										Suvernada Foundation is involved in a wide range of
+										activities. The virtual workshop on &ldquo;Statistics and
+										Data Visualization for Research,&rdquo; held on January
+										24&ndash;25, 2026, enabled research scholars to strengthen
+										their research planning skills with a solid foundation in
+										statistical analysis.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div className="event-details">
+							<div className="event-title">
+								<h4>
+									&ldquo;Millets &ndash; An Approach for a Sustainable Healthy
+									World&rdquo; &mdash; keynote at Kurukshetra University
+								</h4>
+								<div className="event-info">
+									<p>
+										<i class="bi bi-calendar-check"></i>Date: 14&ndash;21
+										January, 2026{" "}
+									</p>
+									<p>
+										<i class="bi bi-person"></i>Authored by: Dr. Sarita
+										Srivastava{" "}
+									</p>
+								</div>
+								<div className="text">
+									<p>
+										Dr. Sarita Srivastava, Director of Suvernada Foundation,
+										shared her 40 years of research experience on millets through
+										a keynote lecture at the workshop titled &ldquo;Millets
+										&ndash; An Approach for a Sustainable Healthy World,&rdquo;
+										held at the Department of Home Science, Kurukshetra
+										University, from January 14 to 21, 2026.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div className="event-details">
+							<div className="event-title">
+								<h4>
+									Swadharm and Nishkaam Karm: Education for society — 10th
+									International Geeta Conference
+								</h4>
+								<div className="event-info">
+									<p>
+										<i class="bi bi-calendar-check"></i>Date: 24&ndash;26
+										November, 2025{" "}
+									</p>
+									<p>
+										<i class="bi bi-person"></i>Authored by: Suvernada
+										Foundation{" "}
+									</p>
+								</div>
+								<div className="text">
+									<p>
+										Suvernada Foundation highlighted the concepts of Swadharm and
+										Nishkaam Karm in the context of delivering education to
+										society. The Directors, Dr. Sarita Srivastava and Dr. R. P.
+										Srivastava, were privileged to present keynote addresses at
+										the 10th International Geeta Conference held at Kurukshetra
+										University from November 24 to 26, 2025.
+									</p>
+									<div className="d-flex justify-content-center">
+										<img
+											src={swadharm1}
+											alt="10th International Geeta Conference, Kurukshetra University"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+									<div className="d-flex justify-content-center">
+										<img
+											src={swadharm2}
+											alt="Keynote on Swadharm and Nishkaam Karm"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div className="event-details">
+							<div className="event-title">
+								<h4>ANVESHAN 2025 — research poster evaluation, Pantnagar</h4>
+								<div className="event-info">
+									<p>
+										<i class="bi bi-calendar-check"></i>Date: October, 2025{" "}
+									</p>
+									<p>
+										<i class="bi bi-person"></i>Authored by: Suvernada
+										Foundation{" "}
+									</p>
+								</div>
+								<div className="text">
+									<p>
+										Dr. Sarita Srivastava, Director of Suvernada Foundation,
+										served as an expert evaluator for the innovative research
+										poster presentations at ANVESHAN 2025, held at the College of
+										Home Science, Pantnagar, in October 2025.
+									</p>
+									<div className="d-flex justify-content-center">
+										<img
+											src={anveshan2025Poster1}
+											alt="ANVESHAN 2025, College of Home Science, Pantnagar"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+									<div className="d-flex justify-content-center">
+										<img
+											src={anveshan2025Poster2}
+											alt="ANVESHAN 2025 research poster presentations"
+											style={{ maxHeight: "540px", margin: "0 auto 15px" }}
+										/>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div className="event-details">
 							<div className="event-title">
 								<h4>News Update</h4>
